@@ -27,6 +27,10 @@ p{
 	display: inline-flex;
 	margin: 30px;
 	justify-content: space-around;
-	max-width: 325px;
+	max-width: 350px;
 	/*padding: 50px;*/
+}
+
+.card-body{
+	min-height: 172px;
 }

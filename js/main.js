@@ -24,7 +24,7 @@ function renderHTML(data) {
 			 	+ "<span class='card-text'>" 
 				 	+ "<p><strong>Genre</strong>: " + data[i].genre + "</p>"
 				 	+ "<p><strong>City</strong>: " + data[i].city + "</p>"
-					+ "<a><strong>Link</strong>: " + data[i].insta_link + "</a>"
+					+ "<span>" + "<strong>Link</strong>: <a href=" + data[i].insta_link + ">" + data[i].insta_link+ "</a></span>"
 			 	+ "</span>" 
 		 	+ "</div>"
 		+ "</div>"
