@@ -1,0 +1,30 @@
+[
+  {
+    "band_name": "Hawt Ham",
+    "genre" : "indie rock",
+    "image" : "https://images.unsplash.com/photo-1519575706483-221027bfbb31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "city" : "Portland",
+    "insta_link": "http://instagram.com/hawtham"
+  },
+  {
+    "band_name": "Surf Sandwich",
+    "genre" : "surf rock",
+    "image" : "https://images.unsplash.com/photo-1450648757538-632c22bfdb7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "city" : "LA",
+    "insta_link": "http://instagram.com/surfsandwich"
+  },
+  {
+    "band_name": "Your Garden",
+    "genre" : "singer songwriter",
+    "image" : "https://images.unsplash.com/photo-1489602642804-64dea1e3ebc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "city" : "Missoula",
+    "insta_link": "http://instagram.com/yourgarden"
+  },
+  {
+    "band_name": "SnakesSnakesSnakes",
+    "genre" : "Country",
+    "image" : "https://unsplash.com/photos/tjAp1TNAT5o",
+    "city" : "Austin",
+    "insta_link": "http://instagram.com/snakessnakessnakes"
+  }  
+]
