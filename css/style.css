@@ -1,0 +1,32 @@
+
+p{
+	padding: 0;
+	margin:0;
+}
+
+#btn{
+	cursor:pointer;
+	padding: 10px 20px;
+	background: blue;
+	color: #fff;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#info-container{
+	margin-top: 50px;
+}
+
+.hide-me{
+	display:none;
+}
+
+.card{
+	display: inline-flex;
+	margin: 30px;
+	justify-content: space-around;
+	max-width: 300px;
+	/*padding: 50px;*/
+}
